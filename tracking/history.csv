@@ -11,3 +11,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-23T10:21:08.114Z,T0001,,38179254,submit_encoding,accepted,,campaign.submitEncoding,1,"{""task_id"":""T0001""}",11
 2026-09-23T10:30:51.185Z,T0002,,297915765,claim_encoding,accepted,,campaign.openEditor,1,"{""task_id"":""T0002""}",12
 2026-09-23T10:36:00.099Z,T0002,,297915765,submit_encoding,accepted,,campaign.submitEncoding,1,"{""task_id"":""T0002""}",13
+2026-09-23T14:37:26.960Z,P0001,S0001,297915765,submit_validation,rejected,wrong_state,campaign.submitValidation,2,"{""task_id"":""P0001"",""subtask_id"":""S0001"",""verdict"":""pass""}",4
